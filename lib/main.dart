@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     ColorScheme appColorScheme = ColorScheme.fromSeed(seedColor: Colors.blue);
     return MaterialApp(
-      title: 'M08 - Form (C)',
+      title: 'M08 - Form (D)',
       theme: ThemeData(
         colorScheme: appColorScheme,
         useMaterial3: true,
